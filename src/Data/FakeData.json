@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "name": "Dave",
+      "data":[
+        {"month":"January", "value": 50},
+        {"month":"February", "value": 175},
+        {"month":"February", "value": 60},
+        {"month":"February", "value": 200},
+        {"month":"March", "value": 25},
+        {"month":"March", "value": 130},
+        {"month":"March", "value": 36},
+        {"month":"March", "value": 120},
+        {"month":"March", "value": 28}
+      ]
+    },
+    {
+      "name": "Jan",
+      "data":[
+        {"month":"January", "value": 125},
+        {"month":"February", "value": 200},
+        {"month":"February", "value": 50},
+        {"month":"February", "value": 98},
+        {"month":"March", "value": 23},
+        {"month":"March", "value": 158},
+        {"month":"March", "value": 22},
+        {"month":"March", "value": 159},
+        {"month":"March", "value": 130}
+      ]
+    }
+  ]
+}

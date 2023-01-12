@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  justify-content: center;
+  display: flex;
+}
+
+.table {
+  width: 500px !important;
+  margin: auto;
+}
